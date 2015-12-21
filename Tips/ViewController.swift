@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Tips
 //
-//  Created by Saad Afzal on 12/20/15.
-//  Copyright © 2015 Saad Afzal. All rights reserved.
+//  Created by Divya Acharya on 12/20/15.
+//  Copyright © 2015 Divya Acharya. All rights reserved.
 //
 
 import UIKit
