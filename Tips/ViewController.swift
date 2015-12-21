@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tips
 //
-//  Created by Divya Acharya on 12/20/15.
+//  Created by Divya Acharya  on 12/20/15.
 //  Copyright © 2015 Divya Acharya. All rights reserved.
 //
 
